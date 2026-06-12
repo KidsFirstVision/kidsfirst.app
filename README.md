@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo-vertical.png" alt="KidsFirst logo" width="200">
+</p>
+
 # KidsFirst — Calm Co-Parenting, Always Free
 
 > **KidsFirst is a free co-parenting app with an AI Conflict Filter that rewrites hostile messages before they're sent — plus a shared calendar, expense tracking, and document storage, all in one place.**
