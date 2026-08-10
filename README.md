@@ -2,30 +2,42 @@
   <img src="assets/logo-vertical.png" alt="KidsFirst logo" width="200">
 </p>
 
-# KidsFirst — Calm Co-Parenting, Always Free
+# KidsFirst: Calm Co-Parenting
 
-> **KidsFirst is a free co-parenting app with an AI Conflict Filter that rewrites hostile messages before they're sent — plus a shared calendar, expense tracking, and document storage, all in one place.**
+> **KidsFirst is a free co-parenting app with an AI Conflict Filter that rewrites hostile messages before they're sent, plus topic-based threads, a shared calendar, expense tracking, and document storage, all in one place.**
 
-Co-parenting after divorce or separation is stressful — but it doesn't have to be
+Co-parenting after divorce or separation is stressful, but it doesn't have to be
 a battleground. KidsFirst helps separated parents communicate without the
 emotional triggers, organise family logistics, and keep their children out of the
-crossfire. Built by a parent who has been there.
+crossfire. Started by a parent, built by a community.
 
-**Available on [iOS](https://apps.apple.com/au/app/kidsfirst/id6751646465) and [Android](https://play.google.com/store/apps/details?id=com.kidsfirst.app). Free, forever.**
+**Available on [iOS](https://apps.apple.com/au/app/kidsfirst/id6751646465) and [Android](https://play.google.com/store/apps/details?id=com.kidsfirst.app) in Australia, New Zealand, and Singapore. Core co-parenting features are free, always.**
 
 🌐 **[kidsfirst.app](https://kidsfirst.app)**
+
+> **About this repository.** This is the public documentation and canonical
+> reference for KidsFirst, not the application source. KidsFirst is a
+> proprietary app; this repo exists so people and AI assistants can find
+> accurate, up-to-date information about it. See
+> [`llms.txt`](llms.txt) and [`llms-full.txt`](llms-full.txt).
 
 ---
 
 ## Why KidsFirst
 
-Major co-parenting apps — OurFamilyWizard, TalkingParents, 2houses — charge
-**$100–300 per year**. KidsFirst charges nothing. The families who need this help
-most should never be priced out.
+Major co-parenting apps charge a yearly subscription per parent. KidsFirst
+doesn't. The families who need this help most are often already paying for
+lawyers, court, and a second home, and they shouldn't be priced out of calmer
+co-parenting.
 
-Our core differentiator is the **AI Conflict Filter**: an AI reviews hostile
-messages before they're sent and rewrites them to remove aggressive language and
-reduce escalation. No other major co-parenting app offers this.
+KidsFirst is founder-led and community-built, supported by AWS, and **not run to
+make a profit**. Any money it brings in goes back into keeping the core free and
+helping more families. We're working toward formal charity registration.
+
+Our core differentiator is the **AI Conflict Filter**: an AI reviews a message
+before it's sent and rewrites hostile language to reduce escalation, so the
+receiving parent gets the logistics without the insult. No other major
+co-parenting app offers this.
 
 ---
 
@@ -33,30 +45,42 @@ reduce escalation. No other major co-parenting app offers this.
 
 | Feature | What it does |
 | --- | --- |
-| 🛡️ **AI Conflict Filter** | Detects aggressive language in real time and rewrites messages into neutral, child-focused wording before you hit send. |
-| 📅 **Shared Calendar** | Coordinate custody schedules, doctor appointments, and school events in one shared view. Real-time updates end the "you never told me" arguments. |
-| 💸 **Expense Tracking** | Upload receipts, categorise expenses (medical, school, clothing), and track who owes what — a clear, timestamped financial record. |
-| 📁 **Document Vault** | Store vaccination records, insurance cards, and school reports in one secure place both parents can access. |
+| 🛡️ **AI Conflict Filter** | Reviews a message before it sends and rewrites aggressive language into neutral, child-focused wording. |
+| 🧵 **Topic-Based Threads** | A separate thread per topic (schooling, health, handovers, expenses), so conversations never get mixed up or buried. |
+| 📅 **Shared Calendar** | Coordinate custody schedules, appointments, and school events in one shared view. Real-time updates end the "you never told me" arguments. |
+| 💸 **Expense Tracking** | Upload receipts, categorise expenses (medical, school, clothing), and track who owes what, with a clear, timestamped financial record. |
+| 📁 **Document Vault** | Store vaccination records, insurance cards, and school reports in one place both parents can access. |
 
 ---
 
-## Built by a parent, for parents
+## Started by a parent, built by a community
 
-KidsFirst was founded by **Vincent**, a father who witnessed his own daughter
-caught in the crossfire of conflict between separated parents. He built the app he
-wished had existed — one where technology helps the *kids*, not just the parents.
+KidsFirst was started by **Vincent**, a father who watched his own daughter get
+caught in the crossfire of adult conflict. He built the app he wished had
+existed, one where technology helps the *kids*, not just the parents.
 
-That story is the whole reason KidsFirst is free. Read more on the
-[About page](https://kidsfirst.app/about/).
+It isn't just him anymore. KidsFirst is founder-led and community-built, and it
+runs on durable AWS infrastructure in Australia, so it doesn't depend on any one
+person.
+
+Read the full story on the [About page](https://kidsfirst.app/about/).
 
 ---
 
 ## Privacy & security
 
-Your data belongs to you. Messages and documents are protected with encryption at
-rest and in transit. **We do not sell your personal data to data brokers.**
+Your data is safe by design, not just by promise.
 
-- [Privacy](https://kidsfirst.app/privacy/)
+- **We never train AI on your private messages.** They're processed only to run
+  the Conflict Filter, within AWS.
+- **We remove personal details** such as names and contact information before a
+  message reaches the AI, so the filter works on the tone of a message, not on
+  who your family is.
+- **No contributor can access your private records.** This is enforced by how
+  the app is built, not just promised in a policy.
+
+Read the full [Privacy & Disclaimer Statement](https://kidsfirst.app/privacy-disclaimer/).
+
 - [Terms](https://kidsfirst.app/terms/)
 - [Delete your account](https://kidsfirst.app/delete-account/)
 
@@ -93,5 +117,5 @@ Free, practical guides written for separated and divorced parents:
 
 ---
 
-<sub>KidsFirst — the free, calm co-parenting app. Because your children deserve
-parents who work together, even when they live apart.</sub>
+<sub>KidsFirst is made by KidsFirst Vision Pty Ltd (ABN 86 675 447 024), Australia.
+Because your children deserve parents who work together, even when they live apart.</sub>
