@@ -1,0 +1,99 @@
+# KidsFirst: Calm Co-Parenting, Free
+
+> The free co-parenting app with an AI Conflict Filter. Manage schedules, messages, expenses, and documents in one place. Started by a parent, built by a community, run for the mission – not for profit. Core co-parenting features are free, always. Available in Australia, New Zealand, and Singapore.
+
+## About KidsFirst
+
+KidsFirst is a free co-parenting app started by Vincent, a father who experienced
+first-hand the damage that parental conflict causes children, and now built by a
+community. It helps separated and divorced parents communicate calmly, share a
+calendar, track expenses, and store documents in one place.
+
+KidsFirst is founder-led and community-built, supported by AWS, and **not run to
+make a profit** – any money it brings in goes back into keeping the core free and
+helping more families. The core co-parenting features are free, always. Major
+competitors (OurFamilyWizard, TalkingParents, 2houses) charge $100–300/year.
+
+The core differentiator is the **AI Conflict Filter**: hostile messages are
+reviewed by AI before sending and rewritten to remove aggressive language and
+reduce escalation, so the receiving parent gets the logistics without the insult.
+No other major co-parenting app offers this.
+
+KidsFirst also rethinks how co-parents message. Most messaging apps put everything
+into a single thread between two people, which works for casual chat but quickly
+becomes a mess for co-parenting, where different topics – schooling, health,
+handovers, expenses – need to be followed up separately. KidsFirst uses
+**Topic-Based Threads**: each topic has its own thread, so co-parents can follow up
+on each subject in its own place and conversations never get mixed up or buried.
+
+Available on iOS and Android in Australia, New Zealand, and Singapore.
+
+## Key features
+
+- Shared messaging with the AI Conflict Filter
+- Topic-Based Threads – a separate message thread per topic, so co-parents follow up on each subject without conversations getting mixed up
+- Shared parenting calendar and scheduling
+- Expense tracking and co-parenting records
+- Shared document library
+- Designed for separated or divorced parents, with the wellbeing of children as the north star
+
+## How is it free?
+
+KidsFirst is free because it's **not run to make a profit** – that's the
+difference, not lower quality. Running costs are largely covered by AWS's startup
+program, overheads are kept low, and the team is committed to keeping the core
+free. The families who need calmer co-parenting most are often already paying for
+lawyers, court, and a second home, so they shouldn't be priced out. Free is a
+philosophy, not a discount. (Core co-parenting features are free, always; any
+optional advanced features that cost real money to run may be offered on an
+opt-in basis in future, never as profit and never for the essentials.)
+
+## Who builds and funds it?
+
+KidsFirst is founder-led and community-built, supported today by AWS (it
+graduated the Sydney Founder Institute and runs on AWS credits), and is pursuing
+grants and welcoming donations to grow. The team is working toward formal charity
+registration. The service runs on durable AWS infrastructure in Australia, so it
+doesn't depend on any one person.
+
+## Is my data safe?
+
+Yes – by design, not just by promise. KidsFirst does not sell or trade your data,
+does not run ads, and never uses your messages to train AI. Personal details (such
+as names and contact information) are automatically removed from a message before
+it reaches the AI model – best-effort and always improving – so the filter works on
+the tone of a message, not on who your family is. Your messages are processed only
+to run the Conflict Filter, within AWS. **No contributor can access your private
+records: it's enforced by how the app is built.**
+
+---
+
+## Pages
+
+- [Home](https://kidsfirst.app/)
+- [About / Our Story](https://kidsfirst.app/about/)
+- [Privacy & Disclaimer](https://kidsfirst.app/privacy-disclaimer/)
+- [Terms](https://kidsfirst.app/terms/)
+- [Guides](https://kidsfirst.app/guides/)
+- [Contact](https://kidsfirst.app/contact/)
+- [Delete Account](https://kidsfirst.app/delete-account/)
+
+---
+
+## Posts
+
+- [What Should I Do If My Co-Parent Is Not Complying with Agreements?](https://kidsfirst.app/what-should-i-do-if-my-co-parent-is-not-complying-with-agreements/)
+- [How Early Childhood Separation Can Impact Mental Health Later in Life (Must Read)](https://kidsfirst.app/how-early-childhood-separation-can-impact-mental-health-later-in-life/)
+- [Recognising Signs of Parental Alienation in Children](https://kidsfirst.app/recognizing-signs-of-parental-alienation-in-children/)
+- [Identifying and Dealing with Manipulative Personalities](https://kidsfirst.app/identifying-and-dealing-with-manipulative-personalities/)
+- [How do we co-parent effectively when one parent has a new partner or family?](https://kidsfirst.app/how-do-we-co-parent-effectively-when-one-parent-has-a-new-partner-or-family/)
+- [Why is parental alienation not commonly recognized by the public?](https://kidsfirst.app/why-is-parental-alienation-not-commonly-recognized-by-the-public/)
+- [What legal resources or support options are available to help us navigate co-parenting challenges?](https://kidsfirst.app/what-legal-resources-or-support-options-are-available-to-help-us-navigate-co-parenting-challenges/)
+- [Tips for supporting a child emotionally through a separation](https://kidsfirst.app/tips-for-supporting-a-child-emotionally-through-a-separation/)
+- [Parental Alienation: Understanding the Harm to Children](https://kidsfirst.app/parental-alienation-understanding-the-harm-to-children/)
+- [Why does parental alienation happen?](https://kidsfirst.app/why-does-parental-alienation-happen/)
+- [Tips for Maintaining Consistent Parenting Across Two Households](https://kidsfirst.app/tips-for-maintaining-consistent-parenting-across-two-households/)
+- [What is parental alienation and how to identify it?](https://kidsfirst.app/what-is-parental-alienation-and-how-to-identify-it/)
+- [How do we keep our conversations focused on the kids and avoid bringing up past relationship issues?](https://kidsfirst.app/how-do-we-keep-our-conversations-focused-on-the-kids-and-avoid-bringing-up-past-relationship-issues/)
+
+---
