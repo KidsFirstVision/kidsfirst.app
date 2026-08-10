@@ -56,7 +56,7 @@ That story is the whole reason KidsFirst is free. Read more on the
 Your data belongs to you. Messages and documents are protected with encryption at
 rest and in transit. **We do not sell your personal data to data brokers.**
 
-- [Privacy](https://kidsfirst.app/privacy-disclaimer/)
+- [Privacy](https://kidsfirst.app/privacy/)
 - [Terms](https://kidsfirst.app/terms/)
 - [Delete your account](https://kidsfirst.app/delete-account/)
 
