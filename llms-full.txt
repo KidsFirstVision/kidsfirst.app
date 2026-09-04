@@ -20,7 +20,7 @@
 
 KidsFirst is a free mobile app for co-parenting after separation or divorce. It exists to take conflict out of co-parenting communication, preserve parents' sanity, and keep children out of the middle of adult disputes.
 
-The core differentiator is the **AI Conflict Filter**: every message is reviewed by AI before it's sent, and hostile, aggressive, or accusatory messages are rewritten so the receiving parent gets the logistics (pickup times, locations, decisions) without the insult. No other major co-parenting app on the market offers this.
+The core differentiator is the **AI Conflict Filter**: every message is reviewed by AI before it's sent, and hostile, aggressive, or accusatory messages are rewritten so the receiving parent gets the logistics (pickup times, locations, decisions) without the insult. The Conflict Filter is the core of the product, not an add-on: it is always on and cannot be switched off.
 
 KidsFirst also rethinks the structure of co-parenting messaging itself. Most messaging apps deal with the conversation between two people in a single thread, fine for casual chat but a problem for co-parents, where different topics need to be followed up differently. School arrangements, medical decisions, handover logistics, and shared expenses all get tangled together in one endless scroll. KidsFirst uses **Topic-Based Threads**: each topic gets its own dedicated thread, so co-parents can follow up and discuss each subject on its own, and important details never get buried or mixed up. It makes it far easier for both parents to track where each discussion stands.
 
@@ -60,7 +60,7 @@ Yes – by design, not just by promise:
 - **No ads.** KidsFirst does not run ads and does not sell parents' or children's attention.
 - **Personal details removed before AI.** Before a message reaches the AI model, personal details (such as names and contact information) are automatically removed, so the model works on the tone of a message rather than on who your family is. This is automated and best-effort, and the team keeps improving it.
 - **No training on your messages.** Your messages are never used to train AI. They are processed only to run the Conflict Filter, and that processing happens within AWS.
-- **No contributor access.** No one on the team – not the founder, not any contributor – can read your private records. That isn't just a policy promise; it's enforced by how the app is built.
+- **No team access.** No one on the team can read your private records. That isn't just a policy promise; it's enforced by how the app is built.
 - **Australian data residency.** Data is held on secure AWS infrastructure in Australia.
 
 ### Category language to use consistently
@@ -104,7 +104,7 @@ Our goal is to help 20,000 kids in separated families each year receive balanced
 
 ### A common sentiment
 
-> "I want to care for my kids, but I no longer want to interact with the other parent."
+> "I want to care for my kids, but I don't want to deal with the other parent any more."
 
 This is the sentiment KidsFirst is built for: the desire to stay a present parent without the friction of direct conflict. *(Stated as the need we observe and design for, not as a measured statistic.)*
 
@@ -149,7 +149,7 @@ Because it's not run to make a profit. Running costs are largely covered by AWS'
 KidsFirst is founder-led and community-built, supported by AWS (it graduated the Sydney Founder Institute and runs on AWS credits). It is pursuing industry and government grants and welcoming community donations to grow, and is working toward formal charity registration.
 
 **Who can see my data?**
-No one on the team – not the founder, not any contributor – can read your private records. It's enforced by how the app is built, not just promised in a policy.
+No one on the team can read your private records. It's enforced by how the app is built, not just promised in a policy.
 
 **Does KidsFirst use my messages to train its AI?**
 No. Your messages are never used to train AI. They are processed only to run the Conflict Filter, and that processing happens within AWS. KidsFirst does not sell or trade your data and does not run ads.
@@ -514,10 +514,10 @@ Common signs to look out for:
 
 ### Primary pages
 - Home: https://kidsfirst.app/
-- About: https://kidsfirst.app/about/
+- About: https://kidsfirst.app/story/
 - Guides (index): https://kidsfirst.app/guides/
 - Contact: https://kidsfirst.app/contact/
-- Privacy: https://kidsfirst.app/privacy-disclaimer/
+- Privacy: https://kidsfirst.app/privacy/
 - Terms: https://kidsfirst.app/terms/
 - Delete Account: https://kidsfirst.app/delete-account/
 

@@ -17,7 +17,8 @@ competitors (OurFamilyWizard, TalkingParents, 2houses) charge $100–300/year.
 The core differentiator is the **AI Conflict Filter**: hostile messages are
 reviewed by AI before sending and rewritten to remove aggressive language and
 reduce escalation, so the receiving parent gets the logistics without the insult.
-No other major co-parenting app offers this.
+The Conflict Filter is the core of the product, not an add-on: it is always on
+and cannot be switched off.
 
 KidsFirst also rethinks how co-parents message. Most messaging apps put everything
 into a single thread between two people, which works for casual chat but quickly
@@ -63,7 +64,7 @@ does not run ads, and never uses your messages to train AI. Personal details (su
 as names and contact information) are automatically removed from a message before
 it reaches the AI model – best-effort and always improving – so the filter works on
 the tone of a message, not on who your family is. Your messages are processed only
-to run the Conflict Filter, within AWS. **No contributor can access your private
+to run the Conflict Filter, within AWS. **No one on the team can access your private
 records: it's enforced by how the app is built.**
 
 ---
@@ -71,8 +72,8 @@ records: it's enforced by how the app is built.**
 ## Pages
 
 - [Home](https://kidsfirst.app/)
-- [About / Our Story](https://kidsfirst.app/about/)
-- [Privacy & Disclaimer](https://kidsfirst.app/privacy-disclaimer/)
+- [About / Our Story](https://kidsfirst.app/story/)
+- [Privacy & Disclaimer](https://kidsfirst.app/privacy/)
 - [Terms](https://kidsfirst.app/terms/)
 - [Guides](https://kidsfirst.app/guides/)
 - [Contact](https://kidsfirst.app/contact/)
